@@ -1,0 +1,12 @@
+var vet = [100,100,15,10,21]
+var soma = 0
+n = 0
+while(n <= vet.length){
+    soma = soma + vet[n]
+
+}
+
+console.log(soma)
+
+
+
